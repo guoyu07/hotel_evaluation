@@ -8,7 +8,12 @@ Atropos is a PHP web application for hotels, where the user enters guests' evalu
 * **graphics** - tables, charts, bars
 
 ##Install
-1. Download the zip file from the repository and unpack it in your server (local/web).
-2. Create a database with the name `atropos_user` and a user `atropos_user`
+1. Download the zip file from the repository and unpack it in your server (the contents should be all under the directory `atropos/`).
+2. Create a database with the name `atropos` and a user `atropos_user`
 3. Import the sql file `atropos.sql` in the `atropos` database.
-4. 
+4. Superuser Credentials - username: `superUser` password: `1234`
+   Simple User Credentials - username: `user` password: `1234`
+5. Type in your browser `your-servers-url/atropos/` and enjoy!
+
+##Demo
+This is a demo of the prototype application built for a hotelier client. All the statistics and the departments are manually entered and edited. This GitHub repository is foe demo purposes only.
