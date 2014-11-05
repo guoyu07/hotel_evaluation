@@ -16,4 +16,4 @@ Atropos is a PHP web application for hotels, where the user enters guests' evalu
 6. Type in your browser `your-server-url/atropos/` and enjoy!
 
 ##Demo
-This is a demo of the prototype application built for a hotelier client. All the statistics and the departments are manually entered and edited. This GitHub repository is foe demo purposes only.
+This is a demo of the prototype application built for a hotelier client. All the statistics and the departments are manually entered and edited. This GitHub repository is for demo purposes only.
