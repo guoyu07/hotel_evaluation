@@ -17,3 +17,7 @@ Hotel Evaluation is a PHP web application for hotels, where the user enters gues
 
 ##Demo
 This is a demo of the prototype application built for a hotelier client. All the statistics and the departments are manually entered and edited. This GitHub repository is for demo purposes only.
+
+##Log
+
+14/12/2014 - Uploaded the first version with the basic features. The `View Ratings` function is in process...
