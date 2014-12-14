@@ -9,10 +9,10 @@ Hotel Evaluation is a PHP web application for hotels, where the user enters gues
 
 ##Install
 1. Download the zip file from the repository and unpack it in your server (the contents should be all under the directory `hotel/`).
-2. Create a database with the name `hotel` and a user `hotel_user`
+2. Create a database with the name `hotel` and a user `hotel_user` with the ingenious password `1234567890`
 3. Import the sql file `hotel.sql` in the `hotel` database.
-4. Superuser Credentials - username: `superUser` password: `1234`
-5. Simple User Credentials - username: `user` password: `1234`
+4. Super User Credentials - username: `superUser` password: `1234`
+5. Simple User Credentials - username: `simpleUser` password: `1234`
 6. Type in your browser `your-server-url/hotel/` and enjoy!
 
 ##Demo
